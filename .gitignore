@@ -1,0 +1,13 @@
+.env
+.env.local
+*.log
+target/
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+*.class
+node_modules/
+secrets/
+config.json
